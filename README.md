@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente busco una oportunidad en TI ...
 
-- 🌱 Estudie Ingeniería Civil en Biotecnología y actualmente estoy aprendiendo a programar en Java!! 🦾 
+- 🌱 Estudie Ingeniería Civil en Biotecnología y estoy aprendiendo a programar en Java!! 🦾 
 
 - 👯 Busco aprender y colaborar en proyectos tecnológicos que generen cambios importantes.
 
